@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  min-height: 0;
+  min-width: 0;
+}
+section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+  z-index: 10;
+  overflow: hidden;
+}
+.row {
+  margin-left: -15px !important;
+  margin-right: -15px !important;
+}
+.tablink {
+  background-color: #b00015;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 28%;
+}
+.font-28px1 {
+  font-size: 36px;
+  color: white;
+}
+p.banking {
+  color: white;
+}
+.nav-tabs {
+  border-bottom: none !important;
+}
+
+.nav-tabs .nav-link {
+  background-color: #b00015 !important;
+  color: #fff !important;
+  outline: none;
+  padding: 14px 16px;
+  font-size: 17px;
+  margin-left: 10px;
+    width: 10rem;
+}
+ .nav-tabs .nav-link.active {
+    background-color: #eff0f3!important;
+    color: black !important;
+   }
+.sect-found {
+  color: #fff;
+}
+
+.billing {
+  background: linear-gradient(90deg, #224a7d 50%, #eff1f3 50%) !important;
+  box-sizing: border-box;
+}
+
+.panel-group {
+  margin-bottom: 20px;
+}
+.panel-group .panel {
+  margin-bottom: 15px;
+  border-radius: 0;
+}
+
+.panel {
+  box-shadow: none;
+  border: 0;
+  background-color: transparent;
+}
+
+.panel .panel-heading {
+  position: relative;
+  padding: 0;
+  background-color: #fff;
+  border-radius: 0;
+}
+
+.panel-default > .panel-heading {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd;
+}
+.panel-group .panel-heading {
+  border-bottom: 0;
+}
+.panel-title {
+  font-size: 25px;
+}
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: inherit;
+}
+.panel-title a {
+  display: block;
+  color: #212121 !important;
+  background-color: transparent;
+  border-color: transparent;
+  padding: 15px 30px;
+  border-radius: 0;
+}
+
+.accordion-header {
+  margin-left: 12px !important;
+}
+.accordion-button:focus {
+  border-color: none !important;
+}
