@@ -15,10 +15,8 @@ function HomeHeader() {
             <div className="container grid grid-two-column">
               <div>
                 <h1>
-                  <bold>
-                    Digitizing Medical Industry <br />
-                    with Healthcare Software Solutions
-                  </bold>
+                  Digitizing Medical Industry <br />
+                  with Healthcare Software Solutions
                 </h1>
                 <p className="swiper-caption-text">
                   Whether you are converting existing applications or starting
@@ -48,10 +46,8 @@ function HomeHeader() {
             <div className="container grid grid-two-column">
               <div>
                 <h1>
-                  <bold>
-                    Bespoke Fintech Software Development & Financial Data
-                    Analytics
-                  </bold>
+                  Bespoke Fintech Software Development & Financial Data
+                  Analytics
                 </h1>
                 <p className="swiper-caption-text">
                   Information is critical to patient care in the virtual world.

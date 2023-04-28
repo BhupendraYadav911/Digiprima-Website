@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .section-para{
+    font-size: 20px;
+    line-height: 1.7;
+     text-align: center;
+  }
+ 
+  .container-nextgen{
+  max-width: 1115px;
+margin: 0 auto;
+  }
+  .section-nextgen{
+    padding-bottom: 20px !important;
+  background-color: #fafafa;
+
+  }

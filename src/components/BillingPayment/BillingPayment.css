@@ -4,13 +4,36 @@
   min-height: 0;
   min-width: 0;
 }
-section {
+/* section {
   padding-top: 50px;
   padding-bottom: 50px;
   position: relative;
   z-index: 10;
   overflow: hidden;
+} */
+.billing {
+  height: 700px; /* set the height to 500px */
 }
+
+
+.billing {
+  padding: 80px 0;
+}
+
+.billing h3 {
+ 
+  font-weight: 900;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.billing p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
 .row {
   margin-left: -15px !important;
   margin-right: -15px !important;
@@ -40,7 +63,6 @@ p.banking {
   background-color: #b00015 !important;
   color: #fff !important;
   outline: none;
-  padding: 14px 16px;
   font-size: 17px;
   margin-left: 10px;
     width: 10rem;
@@ -110,4 +132,106 @@ p.banking {
 }
 .accordion-button:focus {
   border-color: none !important;
+}
+
+
+
+ul.found {
+  list-style: disc;
+  color: #fff !important;
+  line-height: 33px;
+}
+
+.mt1-50 {
+  padding: 0px 0px 0px 57px;
+}
+
+.font-28px1 {
+  font-size: 38px;
+  color: white;
+}
+
+.panel-title {
+  font-size: 25px;
+}
+
+p.banking {
+  color: white;
+}
+
+.actives {
+  background-color: #eff0f3!important;
+  color: black !important;
+}
+
+.tablink {
+  background-color: #b00015;
+  color:#fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 28%;
+}
+.solution-color  {
+  display: block;
+  color: #212121;
+  background-color: #eff1f3 !important;
+  
+}
+.data-para {
+  text-align: justify; 
+  margin-left: 10px; 
+}
+.data-ul {
+  margin-top: 20px;
+}
+.health-pdding {
+  padding: 0px 17px;
+  margin-left: -13px;
+}
+@media (min-width:320px) and (max-width:480px) {
+  .billing {
+      background: linear-gradient(90deg, #224a7d 100%, #eff1f3 50%) !important;
+      box-sizing: border-box;
+  }
+
+  .tablink {
+      font-size: 16px;
+      width: 32%;
+  }
+
+  .font-28px1 {
+      text-align: center;
+      font-size: 22px !important;
+      margin-top: 2px;
+  }
+
+  .pl-20 {
+      display: none;
+  }
+  ul.found {
+  list-style: disc;
+  color: #fff !important;
+  line-height: 33px;
+  margin-left: 51px;
+}
+}
+
+@media (min-width:768px) {
+  .billing {
+      background: linear-gradient(90deg, #224a7d 50%, #eff1f3 50%) !important;
+      box-sizing: border-box;
+  }
+  .font-28px1 {
+  font-size: 36px;
+  color: white;
+}
+ul.found {
+  list-style: disc;
+  color: #fff !important;
+  line-height: 33px;
+  margin-left: 44px;
+}
 }

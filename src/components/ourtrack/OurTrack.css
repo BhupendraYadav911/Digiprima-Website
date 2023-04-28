@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  .column-3 h2{
+    font-size: 35px ;
+    text-align: start !important;
+    margin-left: 0px !important;
+    font-weight: 700;
+
+    
+}
+.column-3 p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+    .column-3 .black{
+        margin-top: 10px;
+    }
+
+        
+    .column-3 div{
+        padding-left: 35px;
+    }
+    .ourtract-btn{
+        padding-left: 0px !important;
+    }
+    
+.column-4 img{
+    height: 412px;
+    width: 80%;
+    margin: auto;
+    margin-top: 31px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

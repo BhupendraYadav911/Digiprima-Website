@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .column-1 div{
+    margin-top: 51px;
+  }
+  .column-1 div img{
+    height: 412px;
+      width: 80%;
+    margin: auto;
+  display: flex;
+justify-content: center;
+align-items:center;
+  }
+ .column-2 h2{
+    font-size: 33px !important;
+    text-align: start !important;
+    margin-left: 0px !important ;
+    margin-top: 14px;
+    /* text-align: start !important; */
+    font-weight: 700;
+
+}
+hr.left-line {
+    background-color: black;
+    border: 1px solid black;
+    width: 100px !important;
+    margin: 19px 0;
+}
+.column-2 p{
+    font-size: 20px;
+    text-align: justify;
+}
+.section-openai{
+    height: 624px;
+    padding-bottom: 10px;
+}
+.openai-btn {
+    margin-left:13px;
+    /* gap: 3px; */
+}
+.openai-btn .black{
+    margin-left: 3px;
+    margin-top: 21px;
+}
