@@ -1,0 +1,69 @@
+section.default-bag.section {
+    padding-top: 10px!important;
+    padding-bottom: alert 25px!important;
+}
+.default-bag {
+    background: radial-gradient(circle, #2f8be1, #2e9ce1, #2cb0e1, #2f91e1, #3274e1)!important;
+}
+.section {
+    padding-bottom: 72px!important;
+}
+.centerize-col {
+    float: none!important;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-heading {
+    text-align: center;
+    margin: auto;
+    float: none;
+}
+ .white-color h5 {
+    color: #fff!important;
+}
+.font-text {
+    font-size: 26px!important;
+    margin-top: 0px;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+.font-600 {
+    font-weight: 600;
+}
+.mt-10 {
+    margin-top: 9px!important;
+}
+h5.text-hd1 {
+    font-size: 14px!important;
+    line-height: 25px!important;
+}
+.freeConsultBtn {
+    background-color: #fff!important;
+    color: #2f8be1!important;
+    border-radius: 50px!important;
+    padding: 10px 20px!important;
+    font-weight: 700!important;
+    font-size: 20px!important;
+    margin-right: 30px!important;
+    text-transform: uppercase;
+}
+/* .btn {
+    font-family: 'Montserrat', sans-serif!important;
+    font-size: 11px!important;
+    font-weight: 700!important;
+    text-transform: uppercase;
+   
+    border-color: transparent;
+    transition-duration: .3s;
+    transition-timing-function: ease-in-out;
+}
+.btn.btn-md {
+    padding: 14px 30px;
+   
+    margin-top: 10px;
+}
+.btn-color {
+    color: #fff;
+    background-color: #BF0731!important;
+} */

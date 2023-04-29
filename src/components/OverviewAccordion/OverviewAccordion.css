@@ -1,0 +1,36 @@
+.white-bg {
+    background-color: #fff;
+}
+.section-heading {
+    text-align: center;
+    margin: auto;
+    float: none;
+}
+.text-1 {
+    font-size: 17px !important;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+.centerize-col {
+    float: none!important;
+    margin-left: auto;
+    margin-right: auto;
+}
+.panel-group {
+    margin-bottom: 20px;
+}
+.panel-group .panel {
+    margin-bottom: 15px;
+    border-radius: 0;
+}
+.accordion-style-01 .panel {
+    background: transparent;
+    box-shadow: none;
+    margin-top: 0!important;
+}
+.panel-body {
+    padding: 12px !important;
+    font-size: 11px;
+}

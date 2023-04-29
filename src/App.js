@@ -14,6 +14,9 @@ import FreeConsultation from "./components/FreeConsultation/FreeConsultation";
 import OurTrack from "./components/ourtrack/OurTrack";
 import Idcare from "./components/Id care/Idcare";
 import Clients from "./components/Clients/Clients";
+import OverviewAccordion from "./components/OverviewAccordion/OverviewAccordion";
+import ClientSlider from "./components/ClientSlider/ClientSlider";
+import BuildStrategic from "./components/BuildStrategic/BuildStrategic";
 
 function App() {
   return (
@@ -33,6 +36,9 @@ function App() {
           <OurTrack />
           <Idcare />
      <Clients />
+     <OverviewAccordion />
+     <ClientSlider />
+     <BuildStrategic />
 
     </>
   );
