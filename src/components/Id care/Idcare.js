@@ -31,7 +31,7 @@ const Idcare = () => {
                 <li>View your medications and request refills</li>
               </ul>
               <div className="my-5"> 
-              <Button  text="Find out more" type="black" />
+              <button className="all-btn black">Find out more</button> 
                 
               </div>
              

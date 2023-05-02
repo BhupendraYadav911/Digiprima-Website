@@ -33,8 +33,8 @@ const Add3d = () => {
               3D animation takes a great touch to bring videos to life. The dedication of our 3D professionals serves as a key to creating high-quality 3D services. Hire our 3D animation creators who have the experience to make even the most complex projects go smoothly.
               </p>
               <div className= "openai-btn ">
-                <Button  text="Find out more" type="black" />
-                <Button text="contact for demo" type="black"/>
+              <button className="all-btn black">Find out more</button> 
+                <button className="all-btn black">Contact For Demo</button>
               </div>
             </div>
           </div>

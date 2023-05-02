@@ -24,14 +24,10 @@ const DynamicUser = () => {
                 <li>User Experience (UX) Development</li>
                 <li>User Interface (UI) Development</li>
               </ul>
-              <p className="mt-30 " style={{color: "black", marginLeft: "12% "}}>
-                <a
-                  href="#"
-                  className="btn btn-dark radius-0 dynamic-btn"
+                <button  className=" all-btn black"
                 >
                   FIND OUT MORE
-                </a>
-              </p>
+                </button>
             </div>
             <div className=" col-md-6 col-sm-12 col-xs-12 " data-wow-delay="0.1s">
               <img

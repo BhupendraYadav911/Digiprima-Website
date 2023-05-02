@@ -37,9 +37,9 @@ const Heathcare = () => {
             </div>
             <div className="column-2">
               <img src="https://www.digiprima.com/images/digi-healthcare.webp " alt="" />
-              <div className="btn-comp">
-                <Button text="Find out more"/>
-                <Button text="contact for demo"/>
+              <div className="btn-comp ">
+              <button className="all-btn">Find out more</button>
+                <button className="all-btn">Contact For Demo</button>
               </div>
             </div>
           </div>

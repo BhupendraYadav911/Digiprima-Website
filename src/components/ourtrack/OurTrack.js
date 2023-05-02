@@ -43,7 +43,8 @@ const OurTrack = () => {
             </p>
 
             <div className="my-5">
-              <Button text="Find out more" type="black" />
+             <button className="all-btn black">Find out more</button> 
+              
             </div>
           </div>
           <div className="column-3 ">
@@ -66,7 +67,8 @@ const OurTrack = () => {
               </p>
 
               <div className="ourtract-btn">
-                <Button text="See the project" type="black" />
+                            
+                <button className="all-btn black">See the project</button>
               </div>
             </div>
           </div>

@@ -17,6 +17,7 @@ import Clients from "./components/Clients/Clients";
 import OverviewAccordion from "./components/OverviewAccordion/OverviewAccordion";
 import ClientSlider from "./components/ClientSlider/ClientSlider";
 import BuildStrategic from "./components/BuildStrategic/BuildStrategic";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
      <OverviewAccordion />
      <ClientSlider />
      <BuildStrategic />
+     <Footer />
 
     </>
   );
